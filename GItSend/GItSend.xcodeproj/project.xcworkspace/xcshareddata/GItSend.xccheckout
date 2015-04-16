@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3888B9F7-57B7-4CB0-881F-87B22B5C7262</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GItSend</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFFED27A5A247783C302A3326787824DD664B513</key>
+		<string>https://github.com/LeeZhe/SweetComics.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GItSend/GItSend.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFFED27A5A247783C302A3326787824DD664B513</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LeeZhe/SweetComics.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFFED27A5A247783C302A3326787824DD664B513</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFFED27A5A247783C302A3326787824DD664B513</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SweetComics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
