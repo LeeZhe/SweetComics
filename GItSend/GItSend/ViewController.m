@@ -22,7 +22,7 @@
     self.tableView.dataSource = self;
     [self.tableView registerNib:[UINib nibWithNibName:@"MyTableViewCell" bundle:nil] forCellReuseIdentifier:@"identify"];
     [self.view addSubview:_tableView];
-    
+    self.view.backgroundColor = [UIColor redColor];
     
 }
 - (UITableView *)tableView
