@@ -14,6 +14,10 @@
 		6FA039FC1ADF63F900481CA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FA039FB1ADF63F900481CA0 /* Images.xcassets */; };
 		6FA039FF1ADF63F900481CA0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FA039FD1ADF63F900481CA0 /* LaunchScreen.xib */; };
 		6FA03A0B1ADF63FA00481CA0 /* GItSendTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA03A0A1ADF63FA00481CA0 /* GItSendTests.m */; };
+		6FA03A171ADFE51800481CA0 /* MyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA03A151ADFE51800481CA0 /* MyTableViewCell.m */; };
+		6FA03A181ADFE51800481CA0 /* MyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FA03A161ADFE51800481CA0 /* MyTableViewCell.xib */; };
+		6FA03A1C1ADFE7AF00481CA0 /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FA03A1B1ADFE7AF00481CA0 /* 123.png */; };
+		6FA03A1E1ADFE7CC00481CA0 /* 背景.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FA03A1D1ADFE7CC00481CA0 /* 背景.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +44,11 @@
 		6FA03A041ADF63F900481CA0 /* GItSendTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GItSendTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FA03A091ADF63FA00481CA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FA03A0A1ADF63FA00481CA0 /* GItSendTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GItSendTests.m; sourceTree = "<group>"; };
+		6FA03A141ADFE51800481CA0 /* MyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTableViewCell.h; sourceTree = "<group>"; };
+		6FA03A151ADFE51800481CA0 /* MyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTableViewCell.m; sourceTree = "<group>"; };
+		6FA03A161ADFE51800481CA0 /* MyTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyTableViewCell.xib; sourceTree = "<group>"; };
+		6FA03A1B1ADFE7AF00481CA0 /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
+		6FA03A1D1ADFE7CC00481CA0 /* 背景.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +94,11 @@
 				6FA039F31ADF63F900481CA0 /* AppDelegate.m */,
 				6FA039F51ADF63F900481CA0 /* ViewController.h */,
 				6FA039F61ADF63F900481CA0 /* ViewController.m */,
+				6FA03A141ADFE51800481CA0 /* MyTableViewCell.h */,
+				6FA03A151ADFE51800481CA0 /* MyTableViewCell.m */,
+				6FA03A1D1ADFE7CC00481CA0 /* 背景.jpg */,
+				6FA03A1B1ADFE7AF00481CA0 /* 123.png */,
+				6FA03A161ADFE51800481CA0 /* MyTableViewCell.xib */,
 				6FA039F81ADF63F900481CA0 /* Main.storyboard */,
 				6FA039FB1ADF63F900481CA0 /* Images.xcassets */,
 				6FA039FD1ADF63F900481CA0 /* LaunchScreen.xib */,
@@ -199,7 +213,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FA03A1E1ADFE7CC00481CA0 /* 背景.jpg in Resources */,
 				6FA039FA1ADF63F900481CA0 /* Main.storyboard in Resources */,
+				6FA03A1C1ADFE7AF00481CA0 /* 123.png in Resources */,
+				6FA03A181ADFE51800481CA0 /* MyTableViewCell.xib in Resources */,
 				6FA039FF1ADF63F900481CA0 /* LaunchScreen.xib in Resources */,
 				6FA039FC1ADF63F900481CA0 /* Images.xcassets in Resources */,
 			);
@@ -220,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FA039F71ADF63F900481CA0 /* ViewController.m in Sources */,
+				6FA03A171ADFE51800481CA0 /* MyTableViewCell.m in Sources */,
 				6FA039F41ADF63F900481CA0 /* AppDelegate.m in Sources */,
 				6FA039F11ADF63F900481CA0 /* main.m in Sources */,
 			);
